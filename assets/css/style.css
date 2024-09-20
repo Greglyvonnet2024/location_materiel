@@ -1,0 +1,40 @@
+main {
+background-color: blue;
+}
+
+header {
+background: linear-gradient(to bottom right, blue, pink);
+}
+
+.titre {
+text-align: center;
+}
+
+h1.p1 {
+color: rgb(225, 47, 204);
+}
+
+ul {
+display: flex;
+justify-content: space-around;
+font-size: 20px;
+}
+
+li {
+list-style-type: none;
+text-decoration: none;
+}
+
+a {
+color: black;
+}
+
+main {
+background-image: url(./assets/img/);
+justify-content: center;
+}
+
+
+form{
+    border: 1px solid black;
+}
